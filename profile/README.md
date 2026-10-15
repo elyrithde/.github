@@ -1,5 +1,9 @@
-# Elyrith
-### Your desktop. Reimagined.
+<p align="center">
+  <img src="../logo.png" alt="Elyrith Logo" width="250">
+</p>
+
+<h1 align="center">Elyrith</h1>
+<h3 align="center">Your desktop. Reimagined.</h3>
 
 Elyrith is a modern, Wayland-native desktop environment for Linux, built around a different approach to window management.
 
